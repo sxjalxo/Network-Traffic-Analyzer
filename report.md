@@ -1,6 +1,6 @@
 # Network Traffic Analysis Report
 
-- **Generated:** 2026-11-19 09:39:47
+- **Generated:** 2026-11-19 10:08:28
 - **Source:** sample.pcap
 - **Packets analysed:** 380
 - **Total bytes:** 46,352
