@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Generated output (regenerate with make_sample.py / analyzer.py)
+mycapture.pcap
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
